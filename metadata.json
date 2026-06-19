@@ -1,0 +1,6 @@
+{
+  "name": "Student Alliance",
+  "description": "The Next Generation of Referral-First Career Networking and AI Career matchmaker.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
